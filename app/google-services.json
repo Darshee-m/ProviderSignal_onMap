@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "917773655443",
+    "firebase_url": "https://cellular-strength-master.firebaseio.com",
+    "project_id": "cellular-strength-master",
+    "storage_bucket": "cellular-strength-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917773655443:android:3151f71ec9bdf820",
+        "android_client_info": {
+          "package_name": "com.example.strengthbutton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917773655443-mcm09obhkkqsfltqs5hmg5i5p5poj4qs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.strengthbutton",
+            "certificate_hash": "c75df126414d5723d93279732b043103b92e4286"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnvmAVEhn1zszKk6mlfeE9qDG3jLD9B9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917773655443-hmf4j1qe5bctslqnju84fpvm2lqtineu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
